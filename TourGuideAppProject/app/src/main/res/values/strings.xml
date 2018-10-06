@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TourGuideAppProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Ybor_City_Museum">Ybor City Museum</string>
+    <string name="Tour_Segway">Segway Tours</string>
+    <string name="Cigar_description">Today, a walk down 7th Avenue is truly a walk through the history of Ybor City. Now known as Tampa’s National Historic Landmark District, Ybor City in the 1880s was a melting pot of immigrants from Spain, Cuba, Germany and Italy and home to some of the world’s most famous cigar factories. In the history of Ybor City, most early Ybor City residents made their living from cigar making, while the occupations of many other workers revolved around the cigar trade. Known for its unique collection of mutual-aid societies and multiethnic population, Ybor City remained the Cigar Capital of the World until the 1930s.</string>
+    <string name="Segway_description">It’s not called the “Cigar Capital of the World” for nothing! Come and experience history, culture and folklore in the one-and-only, Ybor City. The sights and sounds of Ybor City are second to none! Glide through the city and you’ll encounter a true American melting pot experience. The Cuban, Spanish and Italian Clubs are just a few of the stops on our tours. The Ybor City Segway tour is a historical tour.</string>
+    <string name="Tour_Cigar">Ybor City Cigars</string>
+    <string name="Tour_Ghost">Ghost Tours</string>
+    <string name="Ghost_description">A true “melting pot” of immigration, what began as an area populated largely by alligators and snakes grew to become “home” to tens of thousands of people within the span of just 40 years. Along with the cigar workers who came from Cuba and Europe to make a new life, “Cigar City” hosted more than its share of villains, conspirators, buccaneers, bandits and gangsters. They arrived from all over the globe, and some have never left, despite slipping the bounds of their worldly forms. Tampa’s famous “Latin District” has had no lack of strange and creepy happenings.</string>
+    <string name="Attract_Streetcar">Ybor Streetcar</string>
+    <string name="Streetcar_description">In their heyday, Tampa\'s streetcars whisked passengers to and from Ybor City, Ballast Point, Hyde Park, Sulphur Springs and points beyond. Operated by uniformed conductors, the Birney cars were a welcome sight, and the familiar clang of the streetcar bell was music to the ears. To ride the streetcar was to feel the pulse of the community. Tampa\'s first electric streetcar lines built in 1892 quickly became an essential part of everyday life as workers took the streetcar downtown and to the cigar factories of west Tampa. And families climbed aboard for a picnic or ball game in DeSoto and Macfarlane parks. Reaching the peak of its popularity in the 1920s with almost 24 million passengers in 1926, Tampa\'s streetcar system rolled to a stop in August 1946 following World War II.</string>
+    <string name="Attract_chickens">Ybor Chickens</string>
+    <string name="Chickens_description">The wild chicken population that currently resides in Ybor City are direct descendants of the chickens that lived in the backyards of the neighborhoods earliest resident’s over 100 years ago. Ybor City’s chickens crossing the streets have become a welcome sight for those who live, work and visit the area. There are many places to catch glimpses, and sometimes even good areas to find where they are by simply using your eyes and ears.  If you live in Ybor City, you can’t dislike the chickens, because like it or not they have been there longer than you.</string>
+    <string name="Attract_cigar_factory">Cigar Factories</string>
+    <string name="cigar_factory_description">Today, a walk down 7th Avenue is truly a walk through the history of Ybor City. Now known as Tampa’s National Historic Landmark District, Ybor City in the 1880s was a melting pot of immigrants from Spain, Cuba, Germany and Italy and home to some of the world’s most famous cigar factories. In the history of Ybor City, most early Ybor City residents made their living from cigar making, while the occupations of many other workers revolved around the cigar trade. Known for its unique collection of mutual-aid societies and multiethnic population, Ybor City remained the Cigar Capital of the World until the 1930s.</string>
+    <string name="Rest_Columbia">Columbia Restaurant</string>
+    <string name="Columbia_description">Founded in 1905 in Tampa’s historic Ybor City by Cuban immigrant Casimiro Hernandez, Sr., the Columbia Restaurant is Florida’s oldest restaurant.</string>
+    <string name="Columbia_details">Address: 2117 E 7th Ave, Tampa, FL 33605, Phone:(813) 248-4961</string>
+    <string name="Rest_centro_espanol">Centro Español</string>
+    <string name="centrol_espanol_description">Founded in 1905 in Tampa’s historic Ybor City by Cuban immigrant Casimiro Hernandez, Sr., the Columbia Restaurant is Florida’s oldest restaurant.</string>
+    <string name="centrol_espanol_details">Address: 2117 E 7th Ave, Tampa, FL 33605, Phone:(813) 248-4961</string>
+    <string name="rest_tequilas">Tequilas Mexican Restaurant</string>
+    <string name="Tequilas_description">Recently opened, Tequila Mexican Restaurant sits in the heart of  Ybor City, Tampa, Florida located on Historic 7th Avenue. At Tequilas, you can choose to dine outside in the fresh air under the stars, or comfortably inside the air-conditioned restaurant.  With many delicious Mexican style dishes, Tequilas invites you to come have dinner with your favorite amigos!</string>
+    <string name="Tequilas_details">1613 E 7TH AVE TAMPA, FL 33605</string>
+    <string name="About_Ybor">About Ybor City</string>
+    <string name="About_Ybor_description">There is so much more to explore in Ybor! It’s not just Tampa’s playground, it’s historically different with a thriving influx of growing corporations and small businesses, eclectic retail stores, diverse restaurants and a growing number of new residential units for people calling Ybor City home. Conveniently located just northeast of downtown, Ybor City is the only neighborhood on Florida’s west coast to be designated a National Historic Landmark District. Founded by Vicente Martinez-Ybor, the district has enjoyed a rich and diverse culture for more than a century. Ybor’s 7th Avenue, the main commercial thoroughfare was recognized as one of the “10 Great Streets in America”! Don’t just take our word for it, explore Ybor City today and find out exactly why…”There’s more in Ybor!</string>
+    <string name="limit_height">Limited height image for list of items</string>
+    <string name="sample_text_1"> </string>
+    <string name="sample_text_2"> </string>
+    <string name="sample_text_3"> </string>
+    <string name="name_tab_1">About Ybor City</string>
+    <string name="name_tab_2">Attractions</string>
+    <string name="name_tab_3">Restaurants</string>
+    <string name="name_tab_4">Tours</string>
+    <string name="name_tab_5">Attractions</string>
+</resources>
